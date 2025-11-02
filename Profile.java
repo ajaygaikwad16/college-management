@@ -1,7 +1,8 @@
 Class Profile {
 
 	private String name;
-	private String prfilePicFilePath;
+	private String profilePiceilePath;
+
 
 
 	public void setName(String name) {
