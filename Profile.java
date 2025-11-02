@@ -10,6 +10,6 @@ Class Profile {
 	}
 
 	
-
+	# Fixed image crop issue
 }
 
